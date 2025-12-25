@@ -1,0 +1,88 @@
+{
+  "cookies": [
+    {
+      "name": "__gads",
+      "value": "ID=a4c580ab0e35b798:T=1766677371:RT=1766681440:S=ALNI_MYgIMkqlMQ_rpP0L2J9TGNCKdZNzA",
+      "domain": ".automationexercise.com",
+      "path": "/",
+      "expires": 1800373371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=000011d3c9ced7c4:T=1766677371:RT=1766681440:S=ALNI_Maqsf4bEr1oViTgWFuwjVz5d_ab6A",
+      "domain": ".automationexercise.com",
+      "path": "/",
+      "expires": 1800373371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=c8bd08d77e6f5aac:T=1766677371:RT=1766681440:S=AA-AfjZlTBZ7wJ-81d2Dm8gy7s5V",
+      "domain": ".automationexercise.com",
+      "path": "/",
+      "expires": 1782229371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCCDCF",
+      "value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22be1f3562-adb6-4ac1-b3ca-b47608d6be65%5C%22%2C%5B1766681612%2C127000000%5D%5D%22%5D%5D%5D",
+      "domain": ".automationexercise.com",
+      "path": "/",
+      "expires": 1800377612,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUn_5JniyZw_0irttQlr0-KAtO18I6VQuKkL6_R8t7Wnwlg6HkhEZc8pQYdh79s",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1801237411.009,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrftoken",
+      "value": "N5NDx3Fva0wigi209x6DAXsBi3bTjDcKZ2HQk60XZD3UhKR3X6NjPRvR5nr4xBy2",
+      "domain": "automationexercise.com",
+      "path": "/",
+      "expires": 1798131273.9,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://automationexercise.com",
+      "localStorage": [
+        {
+          "name": "google_ama_config",
+          "value": "[[[[null,9,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,7,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,14,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,5,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#feedback\"],2,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,15,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"H5\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#form\"],4,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[2,4]],[[null,10,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",0],[5],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,12,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]]],[],[1766768075460],\"20251210_093552\",[],[[[[null,0,null,[],null,null,\"SECTION#form>DIV.container>DIV.panel-group\"],[null,null,null,[],null,null,\"H5\"],null,[null,null,null,[],null,null,\"DIV.panel-heading,H5\"]],[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[674877597],null,null,[1766564549757],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+        },
+        {
+          "name": "google_adsense_settings",
+          "value": "{\"ca-pub-1677597403311019\":[\"ca-pub-1677597403311019\"]}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1766681657288"
+        }
+      ]
+    }
+  ]
+}
