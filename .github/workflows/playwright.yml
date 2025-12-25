@@ -58,3 +58,18 @@ jobs:
         with:
           name: traces
           path: test-results
+
+      - name: Notify on failure (email)
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Playwright CI Failed on ${{ github.repository }}"
+          to: ${{ secrets.NOTIFY_EMAIL }}
+          from: ${{ secrets.NOTIFY_EMAIL }}
+          body: |
+            Playwright CI failed for ${{ github.repository }} on ${{ github.ref }}.
+            See details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
